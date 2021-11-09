@@ -126,6 +126,7 @@
       .section-title {
         display: flex;
         justify-content: center;
+        margin: 0;
         padding-bottom: 20px;
         width: 60%;
         line-height: 69px;
@@ -136,6 +137,7 @@
       .section-subtitle {
         display: flex;
         justify-content: center;
+        margin: 0;
         width: 60%;
         line-height: 34px;
         font-size: 24px;
