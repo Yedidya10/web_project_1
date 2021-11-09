@@ -218,6 +218,7 @@
       justify-content: center;
       padding: 90px 0;
       background-color: #1F1F1F;
+      color: white;
       overflow: hidden;
     }
 
@@ -238,7 +239,6 @@
       font-size: 60px;
       font-weight: bold;
       text-align: center;
-      color: white;
     }
 
     .section-subtitle_theme_dark {
@@ -248,7 +248,6 @@
       line-height: 34px;
       font-size: 24px;
       font-weight: normal;
-      color: white;
     }
 
     .table_theme_dark {
@@ -283,6 +282,7 @@
     justify-content: center;
     min-height: 350px;
     background-color: black;
+    color: white;
   }
     .footer__columns {
       display: flex;
@@ -306,12 +306,10 @@
           line-height: 25px;
           font-size: 18px;
           font-weight: normal;
-          color: white;
         }
       .footer__columns_content_about {
         display: block;
         flex-wrap: wrap;
-        color: white;
 
       }
         .footer__column-heading {
@@ -338,6 +336,3 @@
           height: 16px;
           width: 16px;
         }
-      .footer__columns_content_social {
-        color: white;
-      }
