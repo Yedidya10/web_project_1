@@ -1,0 +1,6 @@
+.video {
+  position: relative;
+  padding-top: 100px;
+  height: 425px;
+  z-index: 1;
+}

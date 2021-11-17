@@ -1,0 +1,12 @@
+@keyframes rotation {
+  from { transform: rotate(15deg);
+  }
+  to { transform: rotate(375deg);
+  }
+}
+
+.header__square,
+.kaufman__triangle {
+  transform: rotate(15deg);
+  animation: rotation 5s infinite linear;
+}

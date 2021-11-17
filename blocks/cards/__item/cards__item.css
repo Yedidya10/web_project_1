@@ -1,0 +1,6 @@
+.cards__item {
+  display: block;
+  margin-top: 60px;
+  min-width: 240px;
+  width: 240px;
+}
