@@ -8,11 +8,3 @@
   /* this ensures that all content is centered on screens wider than 1600px */
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
-
-.section-title_theme_dark,
-.section-subtitle_theme_dark,
-.table_theme_dark {
-  color: white;
-  z-index: 1;
-}
-
